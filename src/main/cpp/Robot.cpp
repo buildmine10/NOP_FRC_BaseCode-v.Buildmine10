@@ -1,3 +1,9 @@
+// make another version
+// design:
+// motor controllers have a class so any kind of motor controller can be used.
+// all motor controllers are all stored in one spot and altered elsewhere
+// 
+
 /*----------------------------------------------------------------------------*/
 /* Copyright (c) 2017-2018 FIRST. All Rights Reserved.                        */
 /* Open Source Software - may be modified and shared by FRC teams. The code   */
